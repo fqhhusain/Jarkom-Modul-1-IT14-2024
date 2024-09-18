@@ -170,4 +170,55 @@ Format: string
 > merah
 Benar! Ini flag-mu: JarkomIT{s3cr3t_m3ss4ge_fr0m_4uth0r_hiBNbBsvUUVE8dBO7dmU8TYlPC0hWK6HWripnWLhYs5ZYqqLSQrCL0R}
 ```
+### Advance Sanity Check
+
+Apa username pengirim?
+Format: username
+> JaneD03
+
+tcp.stream eq 3
+
+Apa nama file yang dikirim?
+Format: filename.extension
+> Clue3.txt
+
+tcp.stream eq 4
+
+Ikuti petunjuk untuk mendapatkan pesan rahasia
+Format: string
+> penword
+
+cGVud29yZA== decode base64 penword
+
+JarkomIT{8uK4n_S4n1ty_b1a5A_fRS9g2Ei1Pze5zWxXwSgWQcyDSu5RWvyTs2nu1hvJjUAf23I208gOIKK}
+
+Illegal Breaktrough
+
+
+Apa IP address dari korban?
+Format: xxx.xxx.xxx.xxx
+> 172.21.88.207
+
+
+Apa port yang digunakan sebagai webserver?
+Format: xxxx: ex. 443
+> 1917
+
+
+Dimana endpoint yang terdapat login?
+Format: /endpoint/path.php
+> /ww1.php
+
+Tools apa yang digunakan oleh attacker?
+Format: toolsname-version ex. hydra-v9.0-dev
+> ffuf-v2.1.0-dev
+
+
+Apa kredensial yang berhasil digunakan oleh attacker untuk login?
+Format: username:password
+> Redbaron:fly1ng4c3 
+
+http.response && !(http contains "salah")
+
+JarkomIT{d34th_fr0m_th3_sky_7TRj6nkrx5fQsseM6ofyqrkLqH1iTc1ElNsknzz4cLDV2e2yWDKjWW1}
 
