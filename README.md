@@ -169,7 +169,7 @@ Apa jawaban dari pertanyaan sang attacker?
 Format: string
 > aIGa) ?bOGc1Q1?( ) :3G,
 ```
-![image](https://github.com/user-attachments/assets/ee821412-c6e0-4cf1-92f4-342cc6af1891)
+![image](https://github.com/user-attachments/assets/ee821412-c6e0-4cf1-92f4-342cc6af1891)<br/>
 Pisahkan angka-angka menjadi 2 digit/puluhan dan 3 digit/ratusan, dengan ketentuan ratusan hanya dimulai dengan angka 1.
 ```
 Apa jawaban dari pertanyaan sang attacker?
