@@ -221,7 +221,7 @@ Format: username:password
 
 http.response && !(http contains "salah")
 
-![Screenshot 2024-09-18 192559](https://github.com/user-attachments/assets/72d2b6bb-ff22-4e7b-abe6-48d7e1f2e5cc)
+![Screenshot 2024-09-18 194016](https://github.com/user-attachments/assets/23840e1f-2cee-40de-b677-51b68254960a)
 
 
 JarkomIT{d34th_fr0m_th3_sky_7TRj6nkrx5fQsseM6ofyqrkLqH1iTc1ElNsknzz4cLDV2e2yWDKjWW1}
