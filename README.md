@@ -153,7 +153,8 @@ Pada attempt ke berapa attacker menemukan email dan password yang benar?
 Format: number
 > 153
 ```
-![image](https://github.com/user-attachments/assets/8cfa5fc4-fa93-4a4a-af5e-2d09f6a80586)
+![image](https://github.com/user-attachments/assets/352b0972-b365-4fa7-8365-b35f73811bf3)
+![image](https://github.com/user-attachments/assets/ee821412-c6e0-4cf1-92f4-342cc6af1891)
 ```
 Apa jawaban dari pertanyaan sang attacker?
 Format: string
