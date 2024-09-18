@@ -1,5 +1,9 @@
 # Jarkom-Modul-1-IT14-2024
 ---
+| Nama | NRP | 
+|---|---|
+| Muhammad Faqih Husain | 5027231023 | 
+| Chelsea Vania Hariyono | 5027231003 | 
 
 ## FTP Login
 ![image](https://github.com/user-attachments/assets/0ae839e4-5f03-4f97-a794-dbc8ab4a6fdc)
