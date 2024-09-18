@@ -224,8 +224,9 @@ http.response && !(http contains "salah")
 
 JarkomIT{d34th_fr0m_th3_sky_7TRj6nkrx5fQsseM6ofyqrkLqH1iTc1ElNsknzz4cLDV2e2yWDKjWW1}
 
-## Steganography
-Terdapat response : 150 ok send data saat di follow terdapat 13 png
+### Steganography
+terdapat response : 150 ok send data saat di follow terdapat 13 png
+![image](https://github.com/user-attachments/assets/a996c018-9175-418b-9979-f234f49d226a)
 Pada wireshark Pilih menu File > Export Objects > FTP-Data
 save all
 
@@ -235,6 +236,9 @@ pada reverse.py tambahkan
 ```
 
 lalu jalankan untuk mengecek pesan tersembunyi dan menghasilkan
+```
+python3 reversed.py
+```
 
 Pesan terbalik dari SISOP.png: 0
 Pesan terbalik dari AI.png: 0
@@ -259,25 +263,30 @@ pahlawan keamanan siber
 
 JarkomIT{S3LaM4t_p4rA_PahL4WaN_GGu0JrmTTKmvZ7CVDSGiIjwZrP5sTvHw5M2JSAtn7tURYfyNLFvplhC5}     
 
-## Rizzset
-Filter dns.qry.name
+### Rizzset
+filter dns.qry.name
+![image](https://github.com/user-attachments/assets/66c4e76d-0106-4a48-b443-98bfa254e0d3)
 
 pada info terdapat www.its.ac.id
 filter dns.qry.name == "www.its.ac.id"
 ![Screenshot 2024-09-18 215028](https://github.com/user-attachments/assets/9480d7b1-5446-45ed-9b97-9a746db78088)
-
 
 terdapat ip pada info 
 
 Tuliskan jarm fingerprint
 download tools
 ```
-git clone https://github.com/salesforce/jarm.git 
+git clone https://github.com/salesforce/jarm.git
+```
+Jalankan tools 
+```
 python jarm.py www.its.ac.id -v
 ```
 didapat jarm 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
+![image](https://github.com/user-attachments/assets/4cc24897-7c01-48dc-a80c-792d1373302d)
 
 JarkomIT{Dn5_C0rR34t10n_1JM9NDxcvh5dnXH5LkYDPs9DQr1zZ0mV19zGIHHgYR4NmALOCQ2BHs1T5}
+
 
 ## Gajah Terbang (Server Recon)
 ```
