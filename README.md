@@ -259,8 +259,10 @@ JarkomIT{S3LaM4t_p4rA_PahL4WaN_GGu0JrmTTKmvZ7CVDSGiIjwZrP5sTvHw5M2JSAtn7tURYfyNL
 
 ### Rizzset
 filter dns.qry.name
+
 pada info terdapat www.its.ac.id
 filter dns.qry.name == "www.its.ac.id"
+![Screenshot 2024-09-18 215028](https://github.com/user-attachments/assets/9480d7b1-5446-45ed-9b97-9a746db78088)
 
 
 terdapat ip pada info 
