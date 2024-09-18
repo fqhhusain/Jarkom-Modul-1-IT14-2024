@@ -192,7 +192,7 @@ cGVud29yZA== decode base64 penword
 
 JarkomIT{8uK4n_S4n1ty_b1a5A_fRS9g2Ei1Pze5zWxXwSgWQcyDSu5RWvyTs2nu1hvJjUAf23I208gOIKK}
 
-Illegal Breaktrough
+### Illegal Breaktrough
 
 
 Apa IP address dari korban?
@@ -221,4 +221,40 @@ Format: username:password
 http.response && !(http contains "salah")
 
 JarkomIT{d34th_fr0m_th3_sky_7TRj6nkrx5fQsseM6ofyqrkLqH1iTc1ElNsknzz4cLDV2e2yWDKjWW1}
+
+### Steganography
+terdapat response : 150 ok send data saat di follow terdapat 13 png
+Pada wireshark Pilih menu File > Export Objects > FTP-Data
+save all
+
+pada reverse.py tambahkan
+```
+# Mendapatkan semua file PNG di direktori directory = "/home/kali/Downloads/stegano/14" png_files = [f for f in os.listdir(directory) if f.endswith('.png')] # Memproses setiap file PNG for image_file in png_files: image_path = os.path.join(directory, image_file) try: decoded_message_reversed = decode_image_reversed(image_path) print(f"Pesan terbalik dari {image_file}: {decoded_message_reversed}") except Exception as e: print(f"Error saat memproses {image_file}: {e}")
+```
+
+lalu jalankan untuk mengecek pesan tersembunyi dan menghasilkan
+
+Pesan terbalik dari SISOP.png: 0
+Pesan terbalik dari AI.png: 0
+Pesan terbalik dari SBD.png: 0
+Pesan terbalik dari TKA.png: 0
+Pesan terbalik dari ATP.png: nawalhap
+Pesan terbalik dari IOT.png: 0
+Pesan terbalik dari SOC.png: 0
+Pesan terbalik dari EH.png: nanamaek
+Pesan terbalik dari IMK.png: 0
+Pesan terbalik dari TKTI.png: 0
+Pesan terbalik dari SOKA.png: 0
+Pesan terbalik dari KWA.png: 0
+Pesan terbalik dari KJK.png: rebis
+
+ambil yang memiliki pesan rahasia taitu ATP, EH, KJK
+
+gabungkan
+
+nawalhapnanamaekrebis
+pahlawan keamanan siber
+
+JarkomIT{S3LaM4t_p4rA_PahL4WaN_GGu0JrmTTKmvZ7CVDSGiIjwZrP5sTvHw5M2JSAtn7tURYfyNLFvplhC5}     
+
 
