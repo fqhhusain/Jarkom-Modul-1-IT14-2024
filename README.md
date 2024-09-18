@@ -55,9 +55,6 @@ Benar! Ini flag-mu: JarkomIT{BiAr_aman_Pake_sSh_wgPDEmiOgIIdE3VPSLi544TzX3zZkm0Q
 ![image](https://github.com/user-attachments/assets/d04bed12-c543-4b87-955d-68beaa203ecb)
 ![image](https://github.com/user-attachments/assets/be58b391-0b70-4702-b68d-ec5ac1d2a16b)
 ![image](https://github.com/user-attachments/assets/64a95f57-294d-4ea0-88e2-afe1a4a1be85)
-![image](https://github.com/user-attachments/assets/7ae11496-1040-4059-a7ba-6a3dd1665ce1)
-![image](https://github.com/user-attachments/assets/632a7feb-dcd4-45a9-b1d7-24dccc2448d4)
-
 ```
 PS C:\Users\ASUS> ncat 10.15.42.60 48500
 ===== Surprise =====
@@ -69,6 +66,10 @@ ex. proFTPd 1.1.0
 Apa nama file yang dikirim oleh attacker?
 Format: filename.extension
 > g0tcha.cpp
+```
+![image](https://github.com/user-attachments/assets/7ae11496-1040-4059-a7ba-6a3dd1665ce1)
+![image](https://github.com/user-attachments/assets/632a7feb-dcd4-45a9-b1d7-24dccc2448d4)
+```
 Apa pesan rahasia yang ditinggalkan oleh attacker?
 Format: string ex. h4lo wor1d
 > g0tchu n0w l1ttl3 m0us3
@@ -78,8 +79,6 @@ Benar! Ini flag-mu: JarkomIT{l1ttl3_m0us3_1n_th3_h0us3_TBTrwNEe2mkKoAduwCJiC2lej
 ### Corporate Breach
 ![image](https://github.com/user-attachments/assets/c878ca73-6573-4285-af55-87f101bb8e53)
 ![image](https://github.com/user-attachments/assets/a6867e07-954f-4afe-8653-d1ef05a551b8)
-![image](https://github.com/user-attachments/assets/f0ac6e1e-7bec-43bc-8b69-4b51b9e39211)
-![image](https://github.com/user-attachments/assets/f97f94fb-ff7f-4d86-8278-837ffa5cc6bc)
 ```
 PS C:\Users\ASUS> ncat 10.15.42.60 51000
 ===== Corporate Breach =====
@@ -87,14 +86,10 @@ Note: You can exit anytime by typing 'exit'
 Siapa nama attacker?
 Format: string
 > Nakhimov
-Apa email yang digunakan untuk login?
-Format: email@gmail.com
-> iceman%40gmail.com
-Jawaban salah
-Apa email yang digunakan untuk login?
-Format: email@gmail.com
-> iceman@gmail.com
-Jawaban salah
+```
+![image](https://github.com/user-attachments/assets/f0ac6e1e-7bec-43bc-8b69-4b51b9e39211)
+![image](https://github.com/user-attachments/assets/f97f94fb-ff7f-4d86-8278-837ffa5cc6bc)
+```
 Apa email yang digunakan untuk login?
 Format: email@gmail.com
 > jarkomsupport@gmail.com
@@ -106,8 +101,6 @@ Benar! Ini flag-mu: JarkomIT{supp0rt_k0k_l3m4h_bg_l16Qr486yyLpCrhYUant9ivRlG6Xt0
 
 ### Packets Barrage
 ![image](https://github.com/user-attachments/assets/5670f7c5-4576-4a1c-ae49-568bfa0818ea)
-![image](https://github.com/user-attachments/assets/30c3bc80-3ad5-4a4a-a678-94372a0ac664)
-![image](https://github.com/user-attachments/assets/0081e326-744d-451c-b063-58f6b3da9c56)
 ```
 PS C:\Users\ASUS> ncat 10.15.42.60 47000
 ===== Packets Barrage =====
@@ -118,6 +111,10 @@ Format: xxx.xxx.xxx.xxx
 Berapa total attempt dari bruteforce attacker?
 Format: number
 > 1917
+```
+![image](https://github.com/user-attachments/assets/30c3bc80-3ad5-4a4a-a678-94372a0ac664)
+![image](https://github.com/user-attachments/assets/0081e326-744d-451c-b063-58f6b3da9c56)
+```
 Apa nama file yang didownload oleh attacker setelah berhasil login?
 Format: filename.extension
 > Albatros.txt
@@ -129,9 +126,6 @@ Benar! Ini flag-mu: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_3aF5HOGyD9Tc8nHBcaiZYQW3l5
 
 ### Malicious Code
 ![image](https://github.com/user-attachments/assets/48b66c7b-d493-4e5d-a367-0e67483216e0)
-![image](https://github.com/user-attachments/assets/ecfac783-198a-4464-ab96-16e56e392394)
-![image](https://github.com/user-attachments/assets/39195ca7-d1c8-41d6-9323-a55eeaa8d9fd)
-![image](https://github.com/user-attachments/assets/8cfa5fc4-fa93-4a4a-af5e-2d09f6a80586)
 ```
 PS C:\Users\ASUS> ncat 10.15.42.60 52000
 ===== Malicious Code =====
@@ -139,9 +133,15 @@ Note: You can exit anytime by typing 'exit'
 Berapa total attempt attacker melakukan dir listing?
 Format: number
 > 52
+```
+![image](https://github.com/user-attachments/assets/ecfac783-198a-4464-ab96-16e56e392394)
+```
 Apa endpoint yang berhasil attacker dapatkan untuk login page?
 Format: /endpoint/path.php
 > /index.php
+```
+![image](https://github.com/user-attachments/assets/39195ca7-d1c8-41d6-9323-a55eeaa8d9fd)
+```
 Pada attempt ke berapa attacker menemukan email dan password yang benar?
 Format: number
 > 52
@@ -149,6 +149,9 @@ Jawaban salah
 Pada attempt ke berapa attacker menemukan email dan password yang benar?
 Format: number
 > 153
+```
+![image](https://github.com/user-attachments/assets/8cfa5fc4-fa93-4a4a-af5e-2d09f6a80586)
+```
 Apa jawaban dari pertanyaan sang attacker?
 Format: string
 > tidak ada
