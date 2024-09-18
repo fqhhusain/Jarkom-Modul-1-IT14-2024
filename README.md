@@ -1,4 +1,5 @@
 # Jarkom-Modul-1-IT14-2024
+---
 
 ### FTP Login
 ![image](https://github.com/user-attachments/assets/0ae839e4-5f03-4f97-a794-dbc8ab4a6fdc)
@@ -15,6 +16,7 @@ Format: string
 Benar! Ini flag-mu: JarkomIT{n0t_s0_s3cur3_ftp_qIsj3ERVseczzJEtYGd73rPslL0WTnH2aiHH04rhiqqGQiYQftyWG1N}
 ```
 ---
+
 ### Pegawai Negeri Sebelah
 ![image](https://github.com/user-attachments/assets/7365f75e-aa33-4d7a-a10d-5fda35dbba67)
 ```
@@ -35,6 +37,7 @@ Format: String
 > RyxaJPv^yF
 Benar! Ini flag-mu: JarkomIT{Tum8eN_p45SnYa_Ku4t_B1aS4Nya_VrcQ33cZUQN9gPp4s69wB7wfXL36aOFURVFs14fVtt4eWqntBZBYM4h}
 ```
+---
 
 ### EZ
 ![image](https://github.com/user-attachments/assets/91309861-12c1-46e9-9bd5-692e17f0d1ec)
@@ -50,6 +53,7 @@ Format: xxxx: ex. 443
 > 1234
 Benar! Ini flag-mu: JarkomIT{BiAr_aman_Pake_sSh_wgPDEmiOgIIdE3VPSLi544TzX3zZkm0QD9jtIuP0UnHLSEZXlm3REZ}
 ```
+---
 
 ### Surprise
 ![image](https://github.com/user-attachments/assets/d04bed12-c543-4b87-955d-68beaa203ecb)
@@ -75,6 +79,7 @@ Format: string ex. h4lo wor1d
 > g0tchu n0w l1ttl3 m0us3
 Benar! Ini flag-mu: JarkomIT{l1ttl3_m0us3_1n_th3_h0us3_TBTrwNEe2mkKoAduwCJiC2lejG0jleG3G9A5SNqWG9BLTX9UQFg7TCHU}
 ```
+---
 
 ### Corporate Breach
 ![image](https://github.com/user-attachments/assets/c878ca73-6573-4285-af55-87f101bb8e53)
@@ -98,6 +103,7 @@ Format: string
 > j4rk0mg4c0rbg
 Benar! Ini flag-mu: JarkomIT{supp0rt_k0k_l3m4h_bg_l16Qr486yyLpCrhYUant9ivRlG6Xt0XV5u6szCKI71GGH2Uf3BBHG6}
 ```
+---
 
 ### Packets Barrage
 ![image](https://github.com/user-attachments/assets/5670f7c5-4576-4a1c-ae49-568bfa0818ea)
@@ -123,6 +129,7 @@ Format: string ex. sine sole nihil sum
 > Der Rote Kampfflieger
 Benar! Ini flag-mu: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_3aF5HOGyD9Tc8nHBcaiZYQW3l5StJzs360IPhDcPLchCCLa4qXU6XACE}
 ```
+---
 
 ### Malicious Code
 ![image](https://github.com/user-attachments/assets/48b66c7b-d493-4e5d-a367-0e67483216e0)
@@ -170,6 +177,7 @@ Format: string
 > merah
 Benar! Ini flag-mu: JarkomIT{s3cr3t_m3ss4ge_fr0m_4uth0r_hiBNbBsvUUVE8dBO7dmU8TYlPC0hWK6HWripnWLhYs5ZYqqLSQrCL0R}
 ```
+---
 
 ### Advance Sanity Check
 
@@ -192,7 +200,7 @@ Format: string
 cGVud29yZA== decode base64 penword
 
 JarkomIT{8uK4n_S4n1ty_b1a5A_fRS9g2Ei1Pze5zWxXwSgWQcyDSu5RWvyTs2nu1hvJjUAf23I208gOIKK}
-
+---
 
 ### Illegal Breaktrough
 
@@ -225,7 +233,7 @@ http.response && !(http contains "salah")
 
 
 JarkomIT{d34th_fr0m_th3_sky_7TRj6nkrx5fQsseM6ofyqrkLqH1iTc1ElNsknzz4cLDV2e2yWDKjWW1}
-
+---
 
 ### Steganography
 terdapat response : 150 ok send data saat di follow terdapat 13 png
@@ -261,7 +269,7 @@ nawalhapnanamaekrebis
 pahlawan keamanan siber
 
 JarkomIT{S3LaM4t_p4rA_PahL4WaN_GGu0JrmTTKmvZ7CVDSGiIjwZrP5sTvHw5M2JSAtn7tURYfyNLFvplhC5}     
-
+---
 
 ### Rizzset
 filter dns.qry.name
@@ -282,5 +290,52 @@ python jarm.py www.its.ac.id -v
 didapat jarm 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
 
 JarkomIT{Dn5_C0rR34t10n_1JM9NDxcvh5dnXH5LkYDPs9DQr1zZ0mV19zGIHHgYR4NmALOCQ2BHs1T5}
+---
 
+### Gajah Terbang (Server Recon)
+```
+PS C:\Users\ASUS> ncat 10.15.42.60 61000
 
+===== Gajah Terbang (Server Recon) =====
+Note: You can exit anytime by typing 'exit'
+
+Apa DBMS yang digunakan pada server tersebut?
+Format: string ex. MonggoDB
+> PostgreSQL
+```
+![image](https://github.com/user-attachments/assets/8402018d-7096-4680-a2e1-a34132daee67)
+```
+Di port berapa DBMS server tersebut berjalan?
+Format: xxxx ex. 443
+> 6969
+```
+![image](https://github.com/user-attachments/assets/bfff4c4d-1561-404b-9acc-04a7977bfd5d)
+![image](https://github.com/user-attachments/assets/d95e497c-e013-4d21-8297-dfcf13d6de21)
+```
+OS apa yang digunakan untuk server tersebut?
+Format: string ex. linux
+> Debian
+```
+![image](https://github.com/user-attachments/assets/2ec41186-0add-4e26-af37-5a2fbab5c3d8)
+```
+Apa credentials username DBMS valid yang digunakan?
+Format: string
+> s1gm4
+```
+![image](https://github.com/user-attachments/assets/b79df379-3834-40c1-a3f1-e5cf4428a95a)
+![image](https://github.com/user-attachments/assets/df58573d-6a0f-4d1e-a487-33dd02b2ba51)
+```
+Apa nama database yang digunakan?
+Format: string
+> sigmaskibidigyatrizzzz
+Ada berapa banyak users dalam database tersebut?
+Format: number
+> 4
+Apa email yang digunakan oleh admin?
+Format: email@gmail.com
+> jojohermawan@gmail.com
+Apa password yang digunakan oleh admin?
+Format: string
+> admin1234
+Benar! Ini flag-mu: JarkomIT{Gy4tT_M5g_4U_2fJzwUZFxlfA18IalZVCZlHzG5k1YTwG3EKjADddK92QPg2q7muNzBiD1}
+```
