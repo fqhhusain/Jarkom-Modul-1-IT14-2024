@@ -269,8 +269,10 @@ terdapat ip pada info
 
 Tuliskan jarm fingerprint
 download tools
-git clone https://github.com/salesforce/jarm.git
+```
+git clone https://github.com/salesforce/jarm.git 
 python jarm.py www.its.ac.id -v
+```
 didapat jarm 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
 
 JarkomIT{Dn5_C0rR34t10n_1JM9NDxcvh5dnXH5LkYDPs9DQr1zZ0mV19zGIHHgYR4NmALOCQ2BHs1T5}
