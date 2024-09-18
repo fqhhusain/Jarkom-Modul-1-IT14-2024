@@ -14,7 +14,7 @@ Format: string
 > sup3rsn1ff3r
 Benar! Ini flag-mu: JarkomIT{n0t_s0_s3cur3_ftp_qIsj3ERVseczzJEtYGd73rPslL0WTnH2aiHH04rhiqqGQiYQftyWG1N}
 ```
-
+---
 ### Pegawai Negeri Sebelah
 ![image](https://github.com/user-attachments/assets/7365f75e-aa33-4d7a-a10d-5fda35dbba67)
 ```
@@ -170,6 +170,7 @@ Format: string
 > merah
 Benar! Ini flag-mu: JarkomIT{s3cr3t_m3ss4ge_fr0m_4uth0r_hiBNbBsvUUVE8dBO7dmU8TYlPC0hWK6HWripnWLhYs5ZYqqLSQrCL0R}
 ```
+
 ### Advance Sanity Check
 
 Apa username pengirim?
@@ -191,6 +192,7 @@ Format: string
 cGVud29yZA== decode base64 penword
 
 JarkomIT{8uK4n_S4n1ty_b1a5A_fRS9g2Ei1Pze5zWxXwSgWQcyDSu5RWvyTs2nu1hvJjUAf23I208gOIKK}
+
 
 ### Illegal Breaktrough
 
@@ -223,6 +225,7 @@ http.response && !(http contains "salah")
 
 
 JarkomIT{d34th_fr0m_th3_sky_7TRj6nkrx5fQsseM6ofyqrkLqH1iTc1ElNsknzz4cLDV2e2yWDKjWW1}
+
 
 ### Steganography
 terdapat response : 150 ok send data saat di follow terdapat 13 png
@@ -258,6 +261,7 @@ nawalhapnanamaekrebis
 pahlawan keamanan siber
 
 JarkomIT{S3LaM4t_p4rA_PahL4WaN_GGu0JrmTTKmvZ7CVDSGiIjwZrP5sTvHw5M2JSAtn7tURYfyNLFvplhC5}     
+
 
 ### Rizzset
 filter dns.qry.name
