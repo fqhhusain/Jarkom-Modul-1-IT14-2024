@@ -146,6 +146,9 @@ Pada attempt ke berapa attacker menemukan email dan password yang benar?
 Format: number
 > 52
 Jawaban salah
+```
+![image](https://github.com/user-attachments/assets/a744f32b-72c8-4d2e-8336-9f3683a4aa55)
+```
 Pada attempt ke berapa attacker menemukan email dan password yang benar?
 Format: number
 > 153
