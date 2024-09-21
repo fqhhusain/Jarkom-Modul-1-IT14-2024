@@ -44,6 +44,7 @@ Benar! Ini flag-mu: JarkomIT{Tum8eN_p45SnYa_Ku4t_B1aS4Nya_VrcQ33cZUQN9gPp4s69wB7
 
 ## EZ
 ![image](https://github.com/user-attachments/assets/91309861-12c1-46e9-9bd5-692e17f0d1ec)
+![image](https://github.com/user-attachments/assets/b6f7eced-ef21-44d8-abce-fd110ac644e5)
 ```
 PS C:\Users\ASUS> ncat 10.15.42.60 54000
 ===== EZ =====
@@ -114,6 +115,9 @@ Note: You can exit anytime by typing 'exit'
 Apa IP address dari attacker?
 Format: xxx.xxx.xxx.xxx
 > 172.21.80.1
+```
+![image](https://github.com/user-attachments/assets/a2ac6b3f-854a-473d-b6a5-fe3de1a5a782)
+```
 Berapa total attempt dari bruteforce attacker?
 Format: number
 > 1917
