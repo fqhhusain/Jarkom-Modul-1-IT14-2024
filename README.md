@@ -246,19 +246,19 @@ lalu jalankan untuk mengecek pesan tersembunyi dan menghasilkan
 python3 reversed.py
 ```
 
-Pesan terbalik dari SISOP.png: 0
-Pesan terbalik dari AI.png: 0
-Pesan terbalik dari SBD.png: 0
-Pesan terbalik dari TKA.png: 0
-Pesan terbalik dari ATP.png: nawalhap
-Pesan terbalik dari IOT.png: 0
-Pesan terbalik dari SOC.png: 0
-Pesan terbalik dari EH.png: nanamaek
-Pesan terbalik dari IMK.png: 0
-Pesan terbalik dari TKTI.png: 0
-Pesan terbalik dari SOKA.png: 0
-Pesan terbalik dari KWA.png: 0
-Pesan terbalik dari KJK.png: rebis
+Pesan terbalik dari SISOP.png: 0  <br />
+Pesan terbalik dari AI.png: 0  <br />
+Pesan terbalik dari SBD.png: 0  <br />
+Pesan terbalik dari TKA.png: 0  <br />
+Pesan terbalik dari ATP.png: nawalhap  <br />
+Pesan terbalik dari IOT.png: 0  <br />
+Pesan terbalik dari SOC.png: 0  <br />
+Pesan terbalik dari EH.png: nanamaek  <br />
+Pesan terbalik dari IMK.png: 0  <br />
+Pesan terbalik dari TKTI.png: 0  <br />
+Pesan terbalik dari SOKA.png: 0  <br />
+Pesan terbalik dari KWA.png: 0  <br />
+Pesan terbalik dari KJK.png: rebis  <br />
 
 ambil yang memiliki pesan rahasia taitu ATP, EH, KJK
 
