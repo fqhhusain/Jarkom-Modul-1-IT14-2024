@@ -238,7 +238,11 @@ save all
 
 pada reverse.py tambahkan
 ```
-# Mendapatkan semua file PNG di direktori directory = "/home/kali/Downloads/stegano/14" png_files = [f for f in os.listdir(directory) if f.endswith('.png')] # Memproses setiap file PNG for image_file in png_files: image_path = os.path.join(directory, image_file) try: decoded_message_reversed = decode_image_reversed(image_path) print(f"Pesan terbalik dari {image_file}: {decoded_message_reversed}") except Exception as e: print(f"Error saat memproses {image_file}: {e}")
+# Mendapatkan semua file PNG di direktori  <br />
+directory = "/home/kali/Downloads/stegano/14" png_files = [f for f in os.listdir(directory) if f.endswith('.png')]  <br />
+# Memproses setiap file PNG for image_file in png_files:  <br />
+image_path = os.path.join(directory, image_file) try: decoded_message_reversed = decode_image_reversed(image_path) print(f"Pesan terbalik dari {image_file}: {decoded_message_reversed}") except Exception as e:  <br />
+print(f"Error saat memproses {image_file}: {e}")
 ```
 
 lalu jalankan untuk mengecek pesan tersembunyi dan menghasilkan
