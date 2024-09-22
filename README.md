@@ -385,7 +385,9 @@ Format: number
 Benar! Ini flag-mu: JarkomIT{G4jaH_K0k_t3RbaNG_Sh3HWAxiVNHP8q8UZLubxftSdYntCirdRrwYmyUdxIza5zrDSEpLQKt5}
 ```
 
-### inneRCE
+### inneRCE (REVISI)
+1) Kapan hacker berhasil mengupload webshell?
+
 filter 
 ```
 http.request.method == "POST" || http.request.method == "PUT"
@@ -432,4 +434,26 @@ Content-type: text/html; charset=UTF-8
 The file idzoyyshell.php has been uploaded.
 ```
 ubah waktunya ke waktu indonesia 2024-09-16 13:18:05
+
+2) Endpoint url dan server mana yang rentan sehingga dapat dihack oleh hacker?
+
+Menggunakan `frame contains "hostname"` untuk menemukan nama server: server-app
+![image](https://github.com/user-attachments/assets/07ae063a-3739-4467-90df-dde5a22b0dbe)
+
+3) Nama webshell yang diupload oleh hacker? <br />
+idzoyyshell.php <br />
+
+4) Command pertama yang berhasil dieksekusi oleh hacker? <br />
+Berdasarkan log, hacker tersebut mencoba menuliskan pesan, apa pesan yang hacker coba tuliskan? <br />
+Menggunakan `http contains "idzoyy"`
+
+![image](https://github.com/user-attachments/assets/e49e00fb-6c4e-4ec8-a0d3-26e2b10bec2e)
+
+5) Berdasarkan log, hacker tersebut mencoba menuliskan pesan, apa pesan yang hacker coba tuliskan?
+```
+echo "cGxzIHJhdGUgc29hbCBpbmkK" | base64 -d
+pls rate soal ini
+```
+
+
 
