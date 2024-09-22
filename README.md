@@ -456,7 +456,7 @@ pls rate soal ini
 ```
 Benar! Ini flag-mu: JarkomIT{P4L1nG_g4mPaNg_An4L1sA_W3b_aTk_SaWBANMwG5IgfHQmv1s4J7CfWW4ivAJvmJKW2rl3uWyR9Ruo1IQe3RCE}4
 
-### 22 Nightmare
+### 22 Nightmare (REVISI)
 1. filter `ftp` lalu menemukan `Request: STOR Sh1k4.jpg` <br />
 2. export ftp local, terdapat `Sh1k4.jpg` dan `noko.py` <br />
 noko.py
