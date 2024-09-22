@@ -454,7 +454,30 @@ Menggunakan `http contains "idzoyy"`
 echo "cGxzIHJhdGUgc29hbCBpbmkK" | base64 -d
 pls rate soal ini
 ```
-Benar! Ini flag-mu: JarkomIT{P4L1nG_g4mPaNg_An4L1sA_W3b_aTk_SaWBANMwG5IgfHQmv1s4J7CfWW4ivAJvmJKW2rl3uWyR9Ruo1IQe3RCE}
+Benar! Ini flag-mu: JarkomIT{P4L1nG_g4mPaNg_An4L1sA_W3b_aTk_SaWBANMwG5IgfHQmv1s4J7CfWW4ivAJvmJKW2rl3uWyR9Ruo1IQe3RCE}4
+
+### 22 Nightmare
+1. filter `ftp` lalu menemukan `Request: STOR Sh1k4.jpg` <br />
+2. export ftp local, terdapat `Sh1k4.jpg` dan `noko.py` <br />
+noko.py
+```
+Import Shika
+
+Class Noko
+    input = int
+    key = String
+    value = String
+    
+    input = 001001100011010000100010001000100011101001101110001001110011100001101110000110100011101000111100001011110011111000100001011011100001111000100001001111010011110100100111
+    
+    key = jpg msg
+    
+    op xor bit
+```
+3. decode input menggunakan cyberchef <br />
+![image](https://github.com/user-attachments/assets/4cc53e44-1b43-4130-a298-47c2126e3f40)
+
+
 
 
 
