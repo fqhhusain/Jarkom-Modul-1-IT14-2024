@@ -454,6 +454,7 @@ Menggunakan `http contains "idzoyy"`
 echo "cGxzIHJhdGUgc29hbCBpbmkK" | base64 -d
 pls rate soal ini
 ```
+Benar! Ini flag-mu: JarkomIT{P4L1nG_g4mPaNg_An4L1sA_W3b_aTk_SaWBANMwG5IgfHQmv1s4J7CfWW4ivAJvmJKW2rl3uWyR9Ruo1IQe3RCE}
 
 
 
